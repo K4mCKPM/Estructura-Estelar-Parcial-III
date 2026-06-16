@@ -23,7 +23,7 @@ Así mismo, se observó que los mejores acercamientos al *Model S* eran para ín
 ![Presión Fraccionaria en índices cercanos al sol](https://github.com/K4mCKPM/Estructura-Estelar-Parcial-III/blob/main/Presion_Fraccionaria_Solar.png)
 
 
-## Referencia
+## Referencias
 
 [1] Parand, K., Yousefi, H., & Delkhosh, M. (2017).
 *A Numerical Approach to Solve Lane-Emden Type Equations by the Fractional Order of Rational Bernoulli Functions*.
